@@ -25,11 +25,11 @@
           }
         },
         "3": {
-          "title": "conférence anglophone Java européenne",
+          "title": "conference anglophone Java europeenne",
           "id": 46
         },
         "4": {
-          "title": " 3500 développeurs de plus de 40 pays, durant 5 jours.",
+          "title": " 3500 developpeurs de plus de 40 pays, durant 5 jours.",
           "id": 47
         }
       },
@@ -46,7 +46,7 @@
           "title": "Organisation",
           "ideas": {
             "1": {
-              "title": "Bénévole",
+              "title": "Benevole",
               "id": 8
             },
             "2": {
@@ -64,15 +64,21 @@
               "id": 11
             },
             "2": {
-              "title": "Les formats de conférences",
+              "title": "Les formats de conferences",
               "ideas": {
                 "1": {
                   "title": "University",
                   "id": 13,
                   "ideas": {
                     "1": {
-                      "title": "Format de présentation adapté aux présentations en profondeur, pouvant porter sur de larges sujets, en prenant le temps .",
+                      "title": "Format de presentation adapte aux presentations en profondeur, pouvant porter sur de larges sujets, en prenant le temps .",
                       "id": 31
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
                     }
                   }
                 },
@@ -85,8 +91,14 @@
                       "id": 35
                     },
                     "2": {
-                      "title": "Présentation rapide (non filmée) pendant la pause déjeuner. Ce format ne donne pas de badge speaker, vous devez avoir un badge participant.",
+                      "title": "Presentation rapide (non filmee) pendant la pause dejeuner. Ce format ne donne pas de badge speaker, vous devez avoir un badge participant.",
                       "id": 36
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
                     }
                   }
                 },
@@ -95,8 +107,15 @@
                   "id": 25,
                   "ideas": {
                     "1": {
-                      "title": "Les B.O.F sont notamment l’occasion de retrouver tous les groupes d’utilisateurs présents. Les différentes Java User Group bien sûr, mais pas seulement. Sont aussi présents le Paris Scala User Group, les communautés Agiles, .NET, JS, Groovy/Grails, Android, etc…",
-                      "id": 62
+                      "title": "Les B.O.F sont notamment l ��occasion de retrouver tous les groupes d’utilisateurs presents. Les differentes Java User Group bien sur, mais pas seulement. Sont aussi presents le Paris Scala User Group, les communautes Agiles, .NET, JS, Groovy/Grails, Android, etc",
+                      "id": 62,
+                      "attr": {}
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
                     }
                   }
                 },
@@ -105,7 +124,7 @@
                   "id": 52,
                   "ideas": {
                     "1": {
-                      "title": "Atelier pratique, formation, découverte.",
+                      "title": "Atelier pratique, formation, decouverte.",
                       "id": 54
                     },
                     "2": {
@@ -123,8 +142,14 @@
                       "id": 57
                     },
                     "2": {
-                      "title": "Un T.I.A est une présentation d’outils, de logiciels ou de librairies, originales ou non. Le live coding est de rigueur, le nombre de slides dans ce type de format se limite en principe à la présentation du speaker et du sujet.",
+                      "title": "Un T.I.A est une presentation d outils, de logiciels ou de librairies, originales ou non. Le live coding est de rigueur, le nombre de slides dans ce type de format se limite en principe a� la presentation du speaker et du sujet.",
                       "id": 58
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
                     }
                   }
                 },
@@ -137,8 +162,14 @@
                       "id": 60
                     },
                     "2": {
-                      "title": "Ce sont des sessions filmées dans une des 6 salles de 250 à 350 places. C’est le format classique après les keynotes du matin. Il y a eu 75 conférences en 2013.",
+                      "title": "Ce sont des sessions filmees dans une des 6 salles de 250 a� 350 places. C est le format classique apres les keynotes du matin. Il y a eu 75 conferences en 2013.",
                       "id": 61
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
                     }
                   }
                 }
@@ -166,7 +197,7 @@
               "id": 38
             },
             "3": {
-              "title": "Agilité, DevOps",
+              "title": "Agilite, DevOps",
               "id": 39
             },
             "4": {
@@ -201,7 +232,7 @@
       "id": 6
     },
     "-4": {
-      "title": "Mon retour d'expériences",
+      "title": "Mon retour d'experiences",
       "ideas": {
         "1": {
           "title": "Ce que j'ai aimé",
