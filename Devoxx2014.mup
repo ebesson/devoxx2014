@@ -35,9 +35,41 @@
       },
       "id": 2
     },
+    "2": {
+      "title": "Objectifs",
+      "id": 65,
+      "ideas": {
+        "1": {
+          "title": "Donner des pointeurs",
+          "id": 67,
+          "ideas": {
+            "1": {
+              "title": "Concept",
+              "id": 69
+            },
+            "2": {
+              "title": "Mot clé",
+              "id": 70
+            }
+          }
+        }
+      }
+    },
     "3": {
-      "title": "Les tendances",
-      "id": 5
+      "title": "Il était une fois",
+      "id": 72,
+      "ideas": {
+        "1": {
+          "title": "Société vente de vidéos",
+          "id": 76,
+          "ideas": {
+            "1": {
+              "title": "Etape",
+              "id": 77
+            }
+          }
+        }
+      }
     },
     "-2": {
       "title": "Devoxx France",
@@ -48,16 +80,16 @@
             "1": {
               "title": "Benevole",
               "id": 8,
-              "ideas": {
-                "1": {
-                  "title": "ParisJUG",
-                  "id": 63
+              "ideas": {}
+            },
+            "3": {
+              "title": "ParisJUG",
+              "id": 73,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
                 }
               }
-            },
-            "2": {
-              "title": "Mariott",
-              "id": 9
             }
           },
           "id": 7
@@ -236,8 +268,13 @@
           "attr": {
             "style": {
               "background": "#E0E0E0"
-            }
+            },
+            "collapsed": true
           }
+        },
+        "4": {
+          "title": "2015 8 au 10 avril",
+          "id": 75
         }
       },
       "id": 6
