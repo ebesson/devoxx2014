@@ -47,7 +47,13 @@
           "ideas": {
             "1": {
               "title": "Benevole",
-              "id": 8
+              "id": 8,
+              "ideas": {
+                "1": {
+                  "title": "ParisJUG",
+                  "id": 63
+                }
+              }
             },
             "2": {
               "title": "Mariott",
@@ -182,7 +188,13 @@
               }
             }
           },
-          "id": 10
+          "id": 10,
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
         },
         "3": {
           "title": "Le programme",
@@ -224,8 +236,7 @@
           "attr": {
             "style": {
               "background": "#E0E0E0"
-            },
-            "collapsed": true
+            }
           }
         }
       },
@@ -233,23 +244,9 @@
     },
     "-4": {
       "title": "Mon retour d'experiences",
-      "ideas": {
-        "1": {
-          "title": "Ce que j'ai aimé",
-          "id": 18
-        },
-        "2": {
-          "title": "Ce que j'ai moins aimé",
-          "id": 19
-        },
-        "3": {
-          "title": "Les conférences aquelles j'ai participé",
-          "id": 20
-        }
-      },
+      "ideas": {},
       "id": 17,
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#E0E0E0"
         }
@@ -257,5 +254,6 @@
     }
   },
   "formatVersion": 2,
-  "id": 1
+  "id": 1,
+  "links": []
 }
