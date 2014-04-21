@@ -20,7 +20,16 @@
           "ideas": {
             "1": {
               "title": "BeJUG : The Belgian Java User Group",
-              "id": 48
+              "id": 48,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://2010.geecon.org/images/partners/bejug.jpg\">http://2010.geecon.org/images/partners/bejug.jpg</a>"
+                },
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
             }
           }
         },
@@ -44,28 +53,171 @@
           "id": 67,
           "ideas": {
             "1": {
-              "title": "Concept",
-              "id": 69
+              "title": "Concepts",
+              "id": 69,
+              "ideas": {
+                "1": {
+                  "title": "Devops",
+                  "id": 83,
+                  "ideas": {
+                    "1": {
+                      "title": "Docker",
+                      "id": 87,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "https://www.docker.io/static/img/homepage-docker-logo.png"
+                        },
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Provisionning",
+                      "id": 88,
+                      "ideas": {
+                        "1": {
+                          "title": "Ansible",
+                          "id": 89,
+                          "ideas": {},
+                          "attr": {
+                            "attachment": {
+                              "contentType": "text/html",
+                              "content": "http://bundles.kunstmaan.be/uploads/media/52f2178e8b342.png"
+                            },
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "Puppet",
+                          "id": 91,
+                          "attr": {
+                            "style": {
+                              "background": "#E0E0E0"
+                            },
+                            "attachment": {
+                              "contentType": "text/html",
+                              "content": "http://www.interclypse.com/images/uploads/puppet_labs_400.png"
+                            }
+                          }
+                        },
+                        "3": {
+                          "title": "Chef",
+                          "id": 92,
+                          "attr": {
+                            "attachment": {
+                              "contentType": "text/html",
+                              "content": "http://s3.amazonaws.com/opscode-corpsite/assets/121/pic-chef-logo.png"
+                            },
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Machine Learning",
+                  "id": 84,
+                  "ideas": {
+                    "1": {
+                      "title": "Mahout",
+                      "id": 86,
+                      "ideas": {},
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "http://media2.hpcwire.com/datanami/mahout_logo.png"
+                        },
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Reactive Programming",
+                  "id": 85,
+                  "ideas": {
+                    "1": {
+                      "title": "Future, Promise",
+                      "id": 94,
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Server Send Event",
+                      "id": 96
+                    },
+                    "3": {
+                      "title": "Websocket",
+                      "id": 97
+                    },
+                    "4": {
+                      "title": "Akka",
+                      "id": 98
+                    },
+                    "5": {
+                      "title": "Vertx",
+                      "id": 99
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Big Data",
+                  "id": 100,
+                  "ideas": {
+                    "1": {
+                      "title": "NoSql",
+                      "id": 103,
+                      "ideas": {
+                        "1": {
+                          "title": "Redis",
+                          "id": 104,
+                          "attr": {
+                            "attachment": {
+                              "contentType": "text/html",
+                              "content": "http://www.touilleur-express.fr/wp-content/uploads/2013/04/redis_logo.png"
+                            },
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "Couchebase",
+                          "id": 105,
+                          "ideas": {},
+                          "attr": {
+                            "attachment": {
+                              "contentType": "text/html",
+                              "content": "http://www.couchbase.com/sites/default/files/uploads/all/images/company/couchbase-circle-symbol.png"
+                            },
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
             },
             "2": {
-              "title": "Mot clé",
+              "title": "Mots clés",
               "id": 70
-            }
-          }
-        }
-      }
-    },
-    "3": {
-      "title": "Il était une fois",
-      "id": 72,
-      "ideas": {
-        "1": {
-          "title": "Société vente de vidéos",
-          "id": 76,
-          "ideas": {
-            "1": {
-              "title": "Etape",
-              "id": 77
             }
           }
         }
@@ -88,8 +240,13 @@
               "attr": {
                 "style": {
                   "background": "#E0E0E0"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://2010.geecon.org/images/partners/paris_jug.jpg\">http://2010.geecon.org/images/partners/paris_jug.jpg</a>"
                 }
-              }
+              },
+              "ideas": {}
             }
           },
           "id": 7
@@ -281,7 +438,29 @@
     },
     "-4": {
       "title": "Mon retour d'experiences",
-      "ideas": {},
+      "ideas": {
+        "1": {
+          "title": "Il était une fois",
+          "ideas": {
+            "1": {
+              "title": "Société vente de vidéos",
+              "ideas": {
+                "1": {
+                  "title": "Etape",
+                  "id": 81
+                }
+              },
+              "id": 80
+            }
+          },
+          "id": 79,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      },
       "id": 17,
       "attr": {
         "style": {
