@@ -166,6 +166,12 @@
                       "title": "Vertx",
                       "id": 99
                     }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
                   }
                 },
                 "4": {
@@ -206,10 +212,23 @@
                       }
                     }
                   }
+                },
+                "5": {
+                  "title": "Functionnal Programming",
+                  "id": 136,
+                  "ideas": {
+                    "1": {
+                      "title": "Java 8",
+                      "id": 137
+                    },
+                    "2": {
+                      "title": "Filter Map Reduce",
+                      "id": 138
+                    }
+                  }
                 }
               },
               "attr": {
-                "collapsed": true,
                 "style": {
                   "background": "#E0E0E0"
                 }
@@ -230,7 +249,7 @@
           "title": "Organisation",
           "ideas": {
             "1": {
-              "title": "Benevole",
+              "title": "Bénévoles",
               "id": 8,
               "ideas": {}
             },
@@ -326,6 +345,12 @@
                       "title": "3 heures",
                       "id": 55
                     }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
                   }
                 },
                 "8": {
@@ -367,6 +392,36 @@
                       "background": "#E0E0E0"
                     }
                   }
+                },
+                "0.5": {
+                  "title": "Keynotes",
+                  "id": 153,
+                  "ideas": {
+                    "1": {
+                      "title": "Syntec : Guy MAMOU-MANI ",
+                      "id": 154,
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Ecole 42 : KWAME YAMGNANE",
+                      "id": 157,
+                      "ideas": {}
+                    },
+                    "3": {
+                      "title": "Oracle : Danny Gorris",
+                      "id": 160
+                    },
+                    "4": {
+                      "title": "Inria : Serge Abiteboul",
+                      "id": 161
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
                 }
               },
               "id": 12,
@@ -379,7 +434,6 @@
           },
           "id": 10,
           "attr": {
-            "collapsed": true,
             "style": {
               "background": "#E0E0E0"
             }
@@ -426,15 +480,49 @@
             "style": {
               "background": "#E0E0E0"
             },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "http://www.devoxx.fr/wp-content/uploads/2013/10/slide_themes.jpg"
+            },
             "collapsed": true
           }
         },
         "4": {
-          "title": "2015 8 au 10 avril",
+          "title": "8 au 10 avril 2015",
           "id": 75
+        },
+        "5": {
+          "title": "Breizhcamp",
+          "id": 128,
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://www.breizhcamp.org/img/logo.png\">http://www.breizhcamp.org/img/logo.png</a>"
+            },
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "22 et 23 mai 2014",
+              "id": 129,
+              "ideas": {
+                "1": {
+                  "title": "Dépêchez-vous",
+                  "id": 150
+                }
+              }
+            }
+          }
         }
       },
-      "id": 6
+      "id": 6,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "-4": {
       "title": "Mon retour d'experiences",
@@ -446,8 +534,76 @@
               "title": "Société vente de vidéos",
               "ideas": {
                 "1": {
-                  "title": "Etape",
-                  "id": 81
+                  "title": "Etape 1 ",
+                  "id": 81,
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "Etape 2",
+                  "id": 131,
+                  "ideas": {
+                    "1": {
+                      "title": "Cloud",
+                      "id": 143,
+                      "ideas": {
+                        "1": {
+                          "title": "Docker",
+                          "id": 162
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Etape 3",
+                  "id": 132,
+                  "ideas": {
+                    "1": {
+                      "title": "Machine Learning",
+                      "id": 134,
+                      "ideas": {
+                        "1": {
+                          "title": "Mahout",
+                          "id": 163
+                        }
+                      }
+                    }
+                  }
+                },
+                "0.5": {
+                  "title": "Etape 0",
+                  "id": 142,
+                  "ideas": {
+                    "1": {
+                      "title": "Java 8",
+                      "id": 144,
+                      "ideas": {
+                        "1": {
+                          "title": "Functionnal",
+                          "id": 145
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Tests",
+                      "id": 147,
+                      "ideas": {
+                        "1": {
+                          "title": "AssertJ",
+                          "id": 148
+                        },
+                        "2": {
+                          "title": "Infinitest",
+                          "id": 149
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "AngularJS",
+                      "id": 164,
+                      "ideas": {}
+                    }
+                  }
                 }
               },
               "id": 80
