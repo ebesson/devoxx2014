@@ -1,0 +1,11 @@
+.reveal small.pull-right{
+    float:right;
+    margin-right: 140px;
+}
+
+.reveal section .orange {
+    color: #ff4500;
+    font-weight: bold;
+    font-size: 80px;
+    font-family: sans-serif;
+}
