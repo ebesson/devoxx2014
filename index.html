@@ -173,11 +173,24 @@
                         </ul>
                     </section>
                     <section>
-                        <h1>Lambda expressions</h1>
+                        <h2>Lambda expressions</h2>
                         <pre><code class="Java">
-                        {
-                          
-                        }
+List<User> users = Arrays.asList(
+      new User("Steve", "Vai", 40), new User("Joe", "Smith", 32),
+      new User("Chuck", "Norris", 15),new User("John", "Doe", 19));
+
+int total = 0;
+for (User u : users) {
+      if (u.getAge() > 18){
+            total += u.getAge();
+      }
+}
+double average = (double)total / (double)users.size();
+
+average = persons.stream()
+       .filter(u -> u.getAge() > 18)
+       .map(u -> u.getAge())
+       .average().getAsDouble(); 
                         </code></pre>     
                     </section>
                     <section>
