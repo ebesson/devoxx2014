@@ -1,0 +1,631 @@
+{
+  "title": "Devoxx 2014",
+  "ideas": {
+    "1": {
+      "title": "Historique",
+      "ideas": {
+        "1": {
+          "title": "Devoxx Anvers",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "2001",
+              "id": 49
+            }
+          }
+        },
+        "2": {
+          "title": "Stephen Johansen",
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "BeJUG : The Belgian Java User Group",
+              "id": 48,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://2010.geecon.org/images/partners/bejug.jpg\">http://2010.geecon.org/images/partners/bejug.jpg</a>"
+                },
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "conference anglophone Java europeenne",
+          "id": 46
+        },
+        "4": {
+          "title": " 3500 developpeurs de plus de 40 pays, durant 5 jours.",
+          "id": 47
+        }
+      },
+      "id": 2
+    },
+    "2": {
+      "title": "Objectifs",
+      "id": 65,
+      "ideas": {
+        "1": {
+          "title": "Donner des pointeurs",
+          "id": 67,
+          "ideas": {
+            "1": {
+              "title": "Concepts",
+              "id": 69,
+              "ideas": {
+                "1": {
+                  "title": "Devops",
+                  "id": 83,
+                  "ideas": {
+                    "1": {
+                      "title": "Docker",
+                      "id": 87,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "https://www.docker.io/static/img/homepage-docker-logo.png"
+                        },
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Provisionning",
+                      "id": 88,
+                      "ideas": {
+                        "1": {
+                          "title": "Ansible",
+                          "id": 89,
+                          "ideas": {},
+                          "attr": {
+                            "attachment": {
+                              "contentType": "text/html",
+                              "content": "http://bundles.kunstmaan.be/uploads/media/52f2178e8b342.png"
+                            },
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "Puppet",
+                          "id": 91,
+                          "attr": {
+                            "style": {
+                              "background": "#E0E0E0"
+                            },
+                            "attachment": {
+                              "contentType": "text/html",
+                              "content": "http://www.interclypse.com/images/uploads/puppet_labs_400.png"
+                            }
+                          }
+                        },
+                        "3": {
+                          "title": "Chef",
+                          "id": 92,
+                          "attr": {
+                            "attachment": {
+                              "contentType": "text/html",
+                              "content": "http://s3.amazonaws.com/opscode-corpsite/assets/121/pic-chef-logo.png"
+                            },
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Machine Learning",
+                  "id": 84,
+                  "ideas": {
+                    "1": {
+                      "title": "Mahout",
+                      "id": 86,
+                      "ideas": {},
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "http://media2.hpcwire.com/datanami/mahout_logo.png"
+                        },
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Reactive Programming",
+                  "id": 85,
+                  "ideas": {
+                    "1": {
+                      "title": "Future, Promise",
+                      "id": 94,
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Server Send Event",
+                      "id": 96
+                    },
+                    "3": {
+                      "title": "Websocket",
+                      "id": 97
+                    },
+                    "4": {
+                      "title": "Akka",
+                      "id": 98
+                    },
+                    "5": {
+                      "title": "Vertx",
+                      "id": 99
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Big Data",
+                  "id": 100,
+                  "ideas": {
+                    "1": {
+                      "title": "NoSql",
+                      "id": 103,
+                      "ideas": {
+                        "1": {
+                          "title": "Redis",
+                          "id": 104,
+                          "attr": {
+                            "attachment": {
+                              "contentType": "text/html",
+                              "content": "http://www.touilleur-express.fr/wp-content/uploads/2013/04/redis_logo.png"
+                            },
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "Couchebase",
+                          "id": 105,
+                          "ideas": {},
+                          "attr": {
+                            "attachment": {
+                              "contentType": "text/html",
+                              "content": "http://www.couchbase.com/sites/default/files/uploads/all/images/company/couchbase-circle-symbol.png"
+                            },
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Functionnal Programming",
+                  "id": 136,
+                  "ideas": {
+                    "1": {
+                      "title": "Java 8",
+                      "id": 137
+                    },
+                    "2": {
+                      "title": "Filter Map Reduce",
+                      "id": 138
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "Mots clés",
+              "id": 70
+            }
+          }
+        }
+      }
+    },
+    "-2": {
+      "title": "Devoxx France",
+      "ideas": {
+        "1": {
+          "title": "Organisation",
+          "ideas": {
+            "1": {
+              "title": "Bénévoles",
+              "id": 8,
+              "ideas": {}
+            },
+            "3": {
+              "title": "ParisJUG",
+              "id": 73,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://2010.geecon.org/images/partners/paris_jug.jpg\">http://2010.geecon.org/images/partners/paris_jug.jpg</a>"
+                }
+              },
+              "ideas": {}
+            }
+          },
+          "id": 7
+        },
+        "2": {
+          "title": "Principe",
+          "ideas": {
+            "1": {
+              "title": "3 jours",
+              "id": 11
+            },
+            "2": {
+              "title": "Les formats de conferences",
+              "ideas": {
+                "1": {
+                  "title": "University",
+                  "id": 13,
+                  "ideas": {
+                    "1": {
+                      "title": "Format de presentation adapte aux presentations en profondeur, pouvant porter sur de larges sujets, en prenant le temps .",
+                      "id": 31
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Quickie",
+                  "id": 24,
+                  "ideas": {
+                    "1": {
+                      "title": "15 min",
+                      "id": 35
+                    },
+                    "2": {
+                      "title": "Presentation rapide (non filmee) pendant la pause dejeuner. Ce format ne donne pas de badge speaker, vous devez avoir un badge participant.",
+                      "id": 36
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "6": {
+                  "title": "B.O.F",
+                  "id": 25,
+                  "ideas": {
+                    "1": {
+                      "title": "Les B.O.F sont notamment l €™occasion de retrouver tous les groupes dâ€™utilisateurs presents. Les differentes Java User Group bien sur, mais pas seulement. Sont aussi presents le Paris Scala User Group, les communautes Agiles, .NET, JS, Groovy/Grails, Android, etc",
+                      "id": 62,
+                      "attr": {}
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "7": {
+                  "title": "Hands-on Labs",
+                  "id": 52,
+                  "ideas": {
+                    "1": {
+                      "title": "Atelier pratique, formation, decouverte.",
+                      "id": 54
+                    },
+                    "2": {
+                      "title": "3 heures",
+                      "id": 55
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "8": {
+                  "title": "Tools-in-Action",
+                  "id": 56,
+                  "ideas": {
+                    "1": {
+                      "title": "30 minutes",
+                      "id": 57
+                    },
+                    "2": {
+                      "title": "Un T.I.A est une presentation d outils, de logiciels ou de librairies, originales ou non. Le live coding est de rigueur, le nombre de slides dans ce type de format se limite en principe a  la presentation du speaker et du sujet.",
+                      "id": 58
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "9": {
+                  "title": "Conference",
+                  "id": 59,
+                  "ideas": {
+                    "1": {
+                      "title": "45 minutes",
+                      "id": 60
+                    },
+                    "2": {
+                      "title": "Ce sont des sessions filmees dans une des 6 salles de 250 a  350 places. C est le format classique apres les keynotes du matin. Il y a eu 75 conferences en 2013.",
+                      "id": 61
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "0.5": {
+                  "title": "Keynotes",
+                  "id": 153,
+                  "ideas": {
+                    "1": {
+                      "title": "Syntec : Guy MAMOU-MANI ",
+                      "id": 154,
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Ecole 42 : KWAME YAMGNANE",
+                      "id": 157,
+                      "ideas": {}
+                    },
+                    "3": {
+                      "title": "Oracle : Danny Gorris",
+                      "id": 160
+                    },
+                    "4": {
+                      "title": "Inria : Serge Abiteboul",
+                      "id": 161
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "id": 12,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          },
+          "id": 10,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "3": {
+          "title": "Le programme",
+          "id": 16,
+          "ideas": {
+            "1": {
+              "title": "Future<Devoxx>",
+              "id": 37
+            },
+            "2": {
+              "title": "Java, Java EE, Java SE",
+              "id": 38
+            },
+            "3": {
+              "title": "Agilite, DevOps",
+              "id": 39
+            },
+            "4": {
+              "title": "Web, HTML5",
+              "id": 40
+            },
+            "5": {
+              "title": "Cloud, Big Data, NoSQL",
+              "id": 41
+            },
+            "6": {
+              "title": "Mobile",
+              "id": 42
+            },
+            "7": {
+              "title": "Langages alternatifs",
+              "id": 43
+            },
+            "8": {
+              "title": "Startup entrepreneuriat",
+              "id": 44
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "http://www.devoxx.fr/wp-content/uploads/2013/10/slide_themes.jpg"
+            },
+            "collapsed": true
+          }
+        },
+        "4": {
+          "title": "8 au 10 avril 2015",
+          "id": 75
+        },
+        "5": {
+          "title": "Breizhcamp",
+          "id": 128,
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://www.breizhcamp.org/img/logo.png\">http://www.breizhcamp.org/img/logo.png</a>"
+            },
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "22 et 23 mai 2014",
+              "id": 129,
+              "ideas": {
+                "1": {
+                  "title": "Dépêchez-vous",
+                  "id": 150
+                }
+              }
+            }
+          }
+        }
+      },
+      "id": 6,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-4": {
+      "title": "Mon retour d'experiences",
+      "ideas": {
+        "1": {
+          "title": "Il était une fois",
+          "ideas": {
+            "1": {
+              "title": "Société vente de vidéos",
+              "ideas": {
+                "1": {
+                  "title": "Etape 1 ",
+                  "id": 81,
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "Etape 2",
+                  "id": 131,
+                  "ideas": {
+                    "1": {
+                      "title": "Cloud",
+                      "id": 143,
+                      "ideas": {
+                        "1": {
+                          "title": "Docker",
+                          "id": 162
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Etape 3",
+                  "id": 132,
+                  "ideas": {
+                    "1": {
+                      "title": "Machine Learning",
+                      "id": 134,
+                      "ideas": {
+                        "1": {
+                          "title": "Mahout",
+                          "id": 163
+                        }
+                      }
+                    }
+                  }
+                },
+                "0.5": {
+                  "title": "Etape 0",
+                  "id": 142,
+                  "ideas": {
+                    "1": {
+                      "title": "Java 8",
+                      "id": 144,
+                      "ideas": {
+                        "1": {
+                          "title": "Functionnal",
+                          "id": 145
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Tests",
+                      "id": 147,
+                      "ideas": {
+                        "1": {
+                          "title": "AssertJ",
+                          "id": 148
+                        },
+                        "2": {
+                          "title": "Infinitest",
+                          "id": 149
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "AngularJS",
+                      "id": 164,
+                      "ideas": {}
+                    }
+                  }
+                }
+              },
+              "id": 80
+            }
+          },
+          "id": 79,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      },
+      "id": 17,
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    }
+  },
+  "formatVersion": 2,
+  "id": 1,
+  "links": []
+}

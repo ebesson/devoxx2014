@@ -13,12 +13,19 @@ v1.0, Avril 22, 2014
 :source-highlighter: highlightjs
 
 [.topic.intro]
+== Objectifs
+
+
+== \\
+- Concepts
+- Mots clés
+
+[.topic.intro]
 == Agenda
 
 
 == \\
 
-.Bulleted 2
 - Historique
 - Devoxx France
 - Le Programme 2014
@@ -57,6 +64,8 @@ TODO
 [.topic.intro]
 == Mon retour d'expérience
 
+
 == \\
 
-TODO
+image::affich_483_1.jpg[height=500,role="center"]
+
